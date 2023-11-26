@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
+            "id": "aa5ad4ac059a1aa6",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily/2023-11-26.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_daily/2023-11-26.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +156,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "readme.md",
+    "ring.md",
+    "images/water.png",
+    "images/2022-05-13-01-55-36.png",
+    "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
+    "images/urbit-sigils.png",
+    "images/study-monk.png",
+    "images/study-monk.jpg",
+    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
+    "images/Screen Shot 2022-02-10 at 3.13.34 pm.png",
+    "images/roman-room.jpg",
+    "images/red-writing2.png",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Using your Exocore.md",
     "_daily/2023-11-26.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
@@ -182,8 +179,6 @@
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md",
     "_daily/2022-05-11.md"
   ]

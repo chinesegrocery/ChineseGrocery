@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-11-26.md",
+                "file": "_daily/2023-11-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-11-26.md",
+                "file": "_daily/2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-11-26.md",
+                "file": "_daily/2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-11-26.md"
+                "file": "_daily/2023-11-28.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "aa5ad4ac059a1aa6",
   "lastOpenFiles": [
+    "_daily/2023-11-26.md",
+    "_daily/2023-11-28.md",
     "readme.md",
     "ring.md",
     "images/water.png",
@@ -180,7 +182,6 @@
     "images/red-writing2.png",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Using your Exocore.md",
-    "_daily/2023-11-26.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-11-28.md",
+                "file": "_daily/2023-12-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-11-28.md",
+                "file": "_daily/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-11-28.md",
+                "file": "_daily/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-11-28.md"
+                "file": "_daily/2023-12-05.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "aa5ad4ac059a1aa6",
   "lastOpenFiles": [
-    "_daily/2023-11-26.md",
     "_daily/2023-11-28.md",
+    "_daily/2023-12-05.md",
+    "_daily/2023-11-26.md",
     "readme.md",
     "ring.md",
     "images/water.png",
